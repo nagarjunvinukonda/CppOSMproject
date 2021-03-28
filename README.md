@@ -6,18 +6,6 @@ This repo contains the starter code for the Route Planning project.
 
 Further I have also worked on [**Search Algorithms**](https://github.com/nagarjunvinukonda/Search-Algorithms) such as A*, RRT*, Dijkstra:
 
-
-## Cloning
-
-When cloning this project, be sure to use the `--recurse-submodules` flag. Using HTTPS:
-```
-git clone https://github.com/udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-or with SSH:
-```
-git clone git@github.com:udacity/CppND-Route-Planning-Project.git --recurse-submodules
-```
-
 ## Dependencies for Running Locally
 * cmake >= 3.11.3
   * All OSes: [click here for installation instructions](https://cmake.org/install/)
