@@ -1,6 +1,6 @@
 # Route Planning Project
 
-This repo contains the starter code for the Route Planning project.
+This repo contains my A* implementation on OSM for the Udacity ND Route Planning project using C++14.
 
 <img src="map.png" width="600" height="450" />
 
